@@ -19,8 +19,6 @@ const EventList = styled.div`
   width: 70%;
 `;
 
-const headerLogo = "../assets/events-logo.png";
-
 const LandingPage = ({ setIsClicked, setEventClicked }) => {
   return (
     <LandingPageContainer>

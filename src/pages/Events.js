@@ -1,6 +1,5 @@
 import React from "react";
 import EventDetails from "../components/EventDetails";
-import { eventsPageData } from "../utils/eventsPageData";
 
 const EventDetailsPage = ({ setIsClicked, eventClicked }) => {
   // const eventDetails = {

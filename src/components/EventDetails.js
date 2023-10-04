@@ -135,7 +135,7 @@ const EventDetails = ({ event, setIsClicked }) => {
     }
   `;
 
-  const { headerImageSrc, logoSrc, description } = event;
+  const { headerImageSrc, logoSrc } = event;
 
   return (
     <EventDetailsContainer>
